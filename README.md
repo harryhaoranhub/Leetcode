@@ -1,0 +1,2 @@
+# Leetcode
+Leetcode solving record
